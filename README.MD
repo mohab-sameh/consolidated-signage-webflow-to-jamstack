@@ -25,6 +25,9 @@ If you have any inquiries/recommendations feel free to contact me any time: moha
 
 
 <br />
+
 ![FireShot Capture 032 - Consolidated Signage - rococo-cucurucho-fed090 netlify app](https://user-images.githubusercontent.com/37941642/186969809-b89a87a1-e5aa-4046-b8ed-76f9a5ce614a.png)
+
 ![FireShot Capture 033 - Consolidated Signage - rococo-cucurucho-fed090 netlify app](https://user-images.githubusercontent.com/37941642/186969896-9cbdc5ec-e541-4bbb-ad3c-a1b944844de6.png)
+
 ![FireShot Capture 034 - Contact us - rococo-cucurucho-fed090 netlify app](https://user-images.githubusercontent.com/37941642/186969945-22027b5b-243d-497d-870c-d82043128008.png)
