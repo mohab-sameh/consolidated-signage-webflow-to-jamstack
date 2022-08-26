@@ -1,4 +1,4 @@
-/* Generated on: Fri Aug 26 2022 18:23:32 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Aug 26 2022 18:59:37 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -807,6 +807,10 @@ p {
 
 .client-image.opacity {
   opacity: 0.8;
+}
+
+.empty-state {
+  display: none;
 }
 
 @media screen and (max-width: 991px) {
