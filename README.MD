@@ -3,6 +3,8 @@
   <img src="https://img.shields.io/badge/webflow-%234353FF.svg?&style=for-the-badge&logo=webflow&logoColor=white" /> <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
+The aim of this project is to find a workaround for hosting Webflow CMS-based sites on 3rd-hosting providers, while maintaining an easy method of updating CMS collections and updating site design.
+
 <br />
 <h1 align='left'>Tools 🔨</h1>
 
@@ -27,6 +29,7 @@ If you have any inquiries/recommendations feel free to contact me any time: moha
 <h1 align='left'>Collaboration :octocat:</h1>
 This code is Headles-CMS-ready. Feel free to fork this repo and attach your Headless CMS of choice.
 
+<br />
 <br />
 
 ![FireShot Capture 032 - Consolidated Signage - rococo-cucurucho-fed090 netlify app](https://user-images.githubusercontent.com/37941642/186969809-b89a87a1-e5aa-4046-b8ed-76f9a5ce614a.png)
