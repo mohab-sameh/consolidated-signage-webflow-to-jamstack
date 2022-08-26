@@ -7,8 +7,8 @@
 <h1 align='left'>Tools 🔨</h1>
 
 ### This web portfolio has been: 📋
-- Developed in Webflow (Credits: Bien Studio, Webflow).
-- Converted into a Self-hosted app using Stacket.
+- Developed in Webflow (Designed by: Bien Studio).
+- Converted into a self-hosted app.
 - Hosted on Netlify CMS.
 
 <br />
@@ -23,6 +23,9 @@
 
 If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
+<br />
+<h1 align='left'>Collaboration :octocat:</h1>
+This code is Headles-CMS-ready. Feel free to fork this repo and attach your Headless CMS of choice.
 
 <br />
 
