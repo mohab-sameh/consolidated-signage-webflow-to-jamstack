@@ -1,4 +1,4 @@
-<center><h1>Consolidated Signage Portfolio - Converted From Webflow to <a href="https://github.com/netlify/netlify-cms">Netlify CMS<a></h1></center>
+<center><h1>Consolidated Signage Portfolio - Converted From Webflow to a <a href="https://github.com/netlify/netlify-cms">Netlify CMS-ready site<a></h1></center>
 <p align="center">
   <img src="https://img.shields.io/badge/webflow-%234353FF.svg?&style=for-the-badge&logo=webflow&logoColor=white" /> <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
@@ -11,7 +11,7 @@ The aim of this project is to find a workaround for hosting Webflow CMS-based si
 ### This web portfolio has been: 📋
 - Developed in Webflow (Designed by: Bien Studio).
 - Converted into a self-hosted app.
-- Hosted on Netlify CMS.
+- Hosted on Netlify.
 
 <br />
 <h1 align='left'>Live Demo</h1>
